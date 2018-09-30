@@ -1,0 +1,1 @@
+Mostrar um Miniatura de um vídeo do Youtube com PHP |Show a Thumbnail of a Youtube Video with PHP
